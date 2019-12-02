@@ -42,4 +42,4 @@
 
 ## Any unresolved questions raised by the data collected
 
-* No
+* Which ones are malware samples?
