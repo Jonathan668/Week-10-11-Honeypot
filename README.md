@@ -8,7 +8,7 @@
 
 ## Any issues you encountered
 
-* The setup for Google Cloud was a little confusing. The country flag doesn't display on the attacks report.
+* The setup for Google Cloud was a little confusing. The country flag doesn't display on the attacks report. The session.json file was too large, so I was only able to upload a portion of it.
 
 ## A summary of the data collected: number of attacks, number of malware samples, etc.
 
