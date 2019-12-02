@@ -36,9 +36,9 @@
  
     5.2377 (135 times)
  
-![AttackStats](https://user-images.githubusercontent.com/54424389/69910905-222a7a80-13e1-11ea-98df-79fe6ef7be9e.gif)
+![AttackStats](https://user-images.githubusercontent.com/54424389/69924695-b1d03780-147a-11ea-968b-ca0ec3b65b19.gif)
 
-![AttacksReport](https://user-images.githubusercontent.com/54424389/69910907-2d7da600-13e1-11ea-8810-0ea8915ac049.gif)
+![AttacksReport](https://user-images.githubusercontent.com/54424389/69924707-c3b1da80-147a-11ea-8b98-66ca5b676b8c.gif)
 
 ## Any unresolved questions raised by the data collected
 
